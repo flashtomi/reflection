@@ -6,5 +6,4 @@ import org.springframework.stereotype.Component;
 public class UserJSONString {
 
     private String myInput = "{\"id\" : \"123456\", \"name\" : \"John\", \"email\" : \"john.test@test.com\"}";
-
 }
